@@ -1,8 +1,7 @@
 
 def real_estate():
-    
-    current_price = int(input("write current price"))
-    last_month_price = int(input("write last month's price"))
+    current_price = int(input())
+    last_month_price = int(input())
     true_price = str(current_price)
     difference = str(current_price-last_month_price)
     mortgage = str(f'{((current_price * 0.051) / 12 ):.2f}')
@@ -14,3 +13,5 @@ def real_estate():
     # Your code goes here
 if __name__ == "__main__":
     real_estate()
+    # ((current_price * 0.051) / 12 )
+ #(f'{your_value:.2f}')
