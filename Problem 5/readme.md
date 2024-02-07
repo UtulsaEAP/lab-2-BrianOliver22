@@ -1,4 +1,7 @@
 # Problem 2.5
+Lab:Brian Oliver 2/7/24 at 2:00
+
+
 Given 4 floating-point numbers. Use a string formatting expression with conversion specifiers to output their product and their average as integers (rounded), then as floating-point numbers.
 
 Output each rounded integer using the following:

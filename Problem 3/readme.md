@@ -15,3 +15,6 @@ the output is:
     After 24 hours: 6.25 mg
 
 Note: A cup of coffee has about 100 mg. A soda has about 40 mg. An "energy" drink (a misnomer) has between 100 mg and 200 mg.
+
+
+Lab:Brian Oliver 2/7/24 at 2:00

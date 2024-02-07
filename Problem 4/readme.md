@@ -15,3 +15,6 @@ the output is:
     The estimated monthly mortgage is $850.00.
 
 Note: Getting the precise spacing, punctuation, and newlines exactly right is a key point of this assignment. Such precision is an important part of programming.
+
+
+Lab:Brian Oliver 2/7/24 at 2:00
